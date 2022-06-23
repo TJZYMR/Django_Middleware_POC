@@ -1,6 +1,3 @@
-
-Complete source code for the example in my article on [Django middleware](https://dev.to/bikramjeetsingh/a-comprehensive-guide-to-django-middleware-2fee).
-
 # Setup
 
 1. Clone repository
